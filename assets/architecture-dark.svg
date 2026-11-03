@@ -50,7 +50,7 @@
   <text x="440" y="214" text-anchor="middle" fill="#58A6FF" font-size="14">GMR · SOMA · HHTools</text>
   <rect x="284" y="390" width="312" height="96" rx="12" fill="url(#aiGrad)" stroke="#316DCA"/>
   <text x="440" y="424" text-anchor="middle" fill="#9CC8FF" font-size="18" font-weight="600">运动策略</text>
-  <text x="440" y="448" text-anchor="middle" fill="#58A6FF" font-size="13">BeyondMimic · MiniCLite · UFO</text>
+  <text x="440" y="448" text-anchor="middle" fill="#58A6FF" font-size="13">BeyondMimic · MimicLite · UFO</text>
   <text x="440" y="470" text-anchor="middle" fill="#58A6FF" font-size="13">IBFM · PBFM</text>
 
   <!-- 列3：实时控制 -->
