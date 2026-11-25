@@ -137,6 +137,23 @@
 
 </details>
 
+<a id="citation"></a>
+
+## 引用
+
+如果你在研究中使用了 RP1，请引用以下条目，并在论文中将机器人称为 **RoboParty RP1**。注明所用的硬件版本和软件 release 或 commit，便于他人复现你的结果。
+
+```bibtex
+@misc{roboparty2026rp1,
+  title        = {{RP1}: An OpenSource Full-Stack Platform for Agentic Humanoids},
+  author       = {{RoboParty}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Roboparty/RP1}}
+}
+```
+
+如果你的工作基于某个子仓库（例如 Party OS 或 PartyMimic），也请一并引用该仓库。
+
 <a id="community"></a>
 
 ## 开放共建，连接同行者

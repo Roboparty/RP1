@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use RP1 in your research, please cite it as below and refer to the robot as RoboParty RP1."
+title: "RP1: An OpenSource Full-Stack Platform for Agentic Humanoids"
+type: software
+authors:
+  - name: "RoboParty"
+    website: "https://roboparty.com"
+repository-code: "https://github.com/Roboparty/RP1"
+url: "https://roboparty.com/products/RP1"
+license: GPL-3.0
+keywords:
+  - humanoid robot
+  - open-source hardware
+  - robot learning
+preferred-citation:
+  type: generic
+  title: "RP1: An OpenSource Full-Stack Platform for Agentic Humanoids"
+  authors:
+    - name: "RoboParty"
+  year: 2026
+  url: "https://github.com/Roboparty/RP1"

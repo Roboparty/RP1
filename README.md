@@ -133,6 +133,23 @@ Supported configurations include 24, 28, 30 and 42 DoF variants.
 
 </details>
 
+<a id="citation"></a>
+
+## Citation
+
+If you use RP1 in your research, please cite it as below and refer to the robot as **RoboParty RP1** in your paper. Stating the hardware version and the software release or commit you used helps others reproduce your results.
+
+```bibtex
+@misc{roboparty2026rp1,
+  title        = {{RP1}: An OpenSource Full-Stack Platform for Agentic Humanoids},
+  author       = {{RoboParty}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Roboparty/RP1}}
+}
+```
+
+If your work builds on a specific sub-repository, such as Party OS or PartyMimic, please cite that repository as well.
+
 <a id="community"></a>
 
 ## Built in the Open. Built Together.
